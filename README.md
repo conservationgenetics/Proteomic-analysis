@@ -1,6 +1,12 @@
 # Proteomic analysis # 
 
-Authors: Florencia García-Campusano;Valeria Alavez Φ▲; Javier Pérez-LópezΦ▲; Denise Arroyo-LambaerΦ; Ana WegierΦ ‡.
+Authors: Florencia García-Campusano •Φ; 
+Valeria Alavez Φ▲; 
+Javier Pérez-LópezΦ▲; 
+Denise Arroyo-LambaerΦ; 
+Ana WegierΦ ‡.
+
+•Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, Ciudad de México, México.
 
 Φ Laboratorio de Genética de la Conservación, Jardín Botánico, Instituto de Biología, Universidad Nacional Autónoma de México, Ciudad de México, México.
 
