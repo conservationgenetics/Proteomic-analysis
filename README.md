@@ -1,10 +1,6 @@
 # Proteomic analysis # 
 
-Authors: Florencia García-Campusano •Φ; 
-Valeria Alavez Φ▲; 
-Javier Pérez-LópezΦ▲; 
-Denise Arroyo-LambaerΦ; 
-Ana WegierΦ ‡.
+Authors: Florencia García-Campusano •Φ; Javier Pérez-LópezΦ▲; Valeria Alavez Φ▲; Denise Arroyo-LambaerΦ; Ana WegierΦ ‡.
 
 •Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, Ciudad de México, México.
 
